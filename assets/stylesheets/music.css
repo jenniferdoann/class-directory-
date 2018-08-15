@@ -1,0 +1,48 @@
+  h1 {
+    color: #497A8C;
+    font-family:'Pirata One', cursive;;
+    font-size:80pt;
+    margin-left: 50px
+  }
+
+body {
+  font-family: 'Raleway';
+
+}
+
+.wrap {
+  display: flex;
+}
+
+.left {
+  background-image: url('../images/sand.jpg');
+  flex-basis: 30%;
+
+}
+
+.right {
+  background: white;
+  flex-basis: 70%;
+
+
+  height: 100vh;
+  overflow: auto;
+}
+
+.card {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  margin: 50px;
+    }
+
+.card .img-top {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+    }
+  .card:hover .img-top {
+        display: inline;
+    }

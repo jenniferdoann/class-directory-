@@ -1,0 +1,12 @@
+.lightbox-image {
+  margin: 10px auto 50px
+  box-shadow:0 35px 90px rgba(0,0,0, 0.4);
+  border-radius: 15px;
+  transition: all .5s ease-in-out;
+  z-index: 1;
+}
+
+.lightbox-image:hover {
+  box-shadow: 0 45px 100px rgba(0,0,0, 0.5);
+  z-index: 10;
+}
