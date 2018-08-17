@@ -7,22 +7,11 @@ background-attachment: fixed; */
 -moz-background-size: cover;
 -o-background-size: cover; */
 }
-
-/* html, body {
-  box-sizing: border-box;
-  height: 10%;
-  width: 50%;
-  } */
-
 body {
   font-family:'Raleway',;
   font-weight: 400;
   background: transparent;
 }
-
-
-}
-
 
 p {
   font-family:'Raleway'

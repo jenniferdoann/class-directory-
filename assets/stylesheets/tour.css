@@ -1,31 +1,26 @@
-container-heading {
-  background: url('../images/sand1.jpg');
-  /* background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-   -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover; */
-}
 
   /* Table elemets below */
 
 table {
     width: 60%;
+    border-collapse:collapse;
   }
 
 th {
-  height: 10px;
+  height: 50px;
 }
 
-  table, th, td {
-    /* border: 1px solid black; */
-  }
+th, td {
+    padding: 10px;
+    text-align: left;
+}
 
   thead {
     background: black;
     color: white;
     text-align: center;
+    font-size:18pt;
+    font-family:'Raleway'
   }
 
   tbody {

@@ -13,7 +13,8 @@ h1 {
   width: 30%;
   float: left;
   display: block;
-  margin: 20px;
+  margin: 30px;
+  border-radius: 0px;
 }
 
 ul {
@@ -39,7 +40,7 @@ ul {
 .overlay img {
   margin: 10% auto 0;
   width: 550px;
-  /* border-radius: 5px; */
+  border-radius: 0px;
 }
 
 .photos {
