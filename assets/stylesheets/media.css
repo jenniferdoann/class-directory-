@@ -39,7 +39,7 @@ ul {
 .overlay img {
   margin: 10% auto 0;
   width: 550px;
-  border-radius: 5px;
+  /* border-radius: 5px; */
 }
 
 .photos {

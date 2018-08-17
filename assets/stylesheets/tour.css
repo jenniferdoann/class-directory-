@@ -1,5 +1,5 @@
 container-heading {
-  background: url('../images/sand.jpg');
+  background: url('../images/sand1.jpg');
   /* background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -47,7 +47,7 @@ th {
     font-weight: 400;
   }
   .hero-image {
-    background-image: url('../images/sand.jpg');
+    background-image: url('../images/sand1.jpg');
     height: 50%;
     background-position: center;
     padding: 50px;
