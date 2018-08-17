@@ -31,7 +31,7 @@ body {
   width: 500px;
   height: 500px;
   position: relative;
-  margin: 50px;
+  margin: 100px;
     }
 
 .card .img-top {
@@ -44,5 +44,3 @@ body {
   .card:hover .img-top {
         display: inline;
     }
-
-    
