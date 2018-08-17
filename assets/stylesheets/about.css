@@ -21,10 +21,5 @@ p {
   position: center;
 }
 
-.box {
-    height: 200px
-    width: 550px;
-    padding: 10px;
-    border: 25px grey;
-    position: right;
-}
+.fab:hover {
+    opacity: 0.7;

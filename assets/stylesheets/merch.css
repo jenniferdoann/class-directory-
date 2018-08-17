@@ -67,3 +67,5 @@ body {
     display: block;
     background: rgba(0, 0, 0, .6);
 }
+.fab:hover {
+    opacity: 0.7;

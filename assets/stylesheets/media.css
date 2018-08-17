@@ -50,3 +50,5 @@ ul {
 .photo-gallery {
   width: 100%;
 }
+.fab:hover {
+    opacity: 0.7;

@@ -23,8 +23,6 @@ body {
 .right {
   background: white;
   flex-basis: 70%;
-
-
   height: 100vh;
   overflow: auto;
 }
@@ -46,3 +44,5 @@ body {
   .card:hover .img-top {
         display: inline;
     }
+
+    

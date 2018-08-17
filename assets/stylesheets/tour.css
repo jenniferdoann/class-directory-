@@ -47,3 +47,5 @@ th, td {
     background-position: center;
     padding: 50px;
   }
+  .fab:hover {
+      opacity: 0.7;
